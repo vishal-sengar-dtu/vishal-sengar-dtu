@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=vishal-sengar-dtu)
 
 Here are few things about me:
-- 🏆 Offer from _PayTM_ 
+- 🏆 Offer from _Paytm_ 
 - 🔭 I’m currently working on creating a DS-Algo Package for Interview.
 - 🔭 I'm also working on building Full Stack Clones of top company website and mobile applications.
 - 🌱 I’m currently learning MERN stack.
